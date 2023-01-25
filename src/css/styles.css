@@ -55,3 +55,20 @@ body {
   margin-bottom: 15px;
 }
 
+.country-heading > img {
+  width: 100px;
+  height: auto;
+}
+
+.country-info-list {
+  list-style: none;
+}
+
+.country-info-item {
+  font-size: 22px;
+  padding-left: 40px;
+}
+
+.highlight {
+  font-weight: 600;
+}
