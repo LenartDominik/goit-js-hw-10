@@ -19,6 +19,17 @@ body {
   flex-direction: column;
 }
 
+.section > h1 {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+  font-size: 32px;
+}
+
+.subheading {
+  margin-bottom: 50px;
+  margin-top: 0px;
+}
+
 #search-box {
   font: inherit;
   padding: 8px;
